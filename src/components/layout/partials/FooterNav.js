@@ -28,7 +28,7 @@ const FooterNav = ({
           <Link to="#0">FAQ's</Link>
         </li>
         <li>
-          <Link to="#0">Support</Link>
+          <Link to="#0">Fall 2020</Link>
         </li>
       </ul>
     </nav>
